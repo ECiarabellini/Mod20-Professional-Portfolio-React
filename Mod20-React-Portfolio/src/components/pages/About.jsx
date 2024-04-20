@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <div>
-      <h1>About Me</h1>
+      <h2>About Me</h2>
       <p>
       I am an experienced professional with a degree in Business Leadership from the University of Puget Sound. Over the past 11 years, I have built a robust foundation in financial operations, gaining valuable insights into industry intricacies. In my recent role, I have spent two years contributing to the success of a growing education and upskilling benefits company, focusing on operational efficiencies, automation, and process and people management.
       </p>
