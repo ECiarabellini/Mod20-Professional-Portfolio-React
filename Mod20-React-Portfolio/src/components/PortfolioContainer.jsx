@@ -34,6 +34,7 @@ export default function PortfolioContainer() {
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       {/* Here we are calling the renderPage method which will return a component  */}
       <main className="mx-3">{renderPage()}</main>
+      <footer className="container text-center">Created using React by Emily Ciarabellini</footer>
     </div>
   );
 }
