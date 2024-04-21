@@ -1,12 +1,7 @@
 header {
-  height: 5vw;
+  height: 110%;
   padding: 1vw;
   background-image: url('./assets/pexels-padrinan-255379.jpg');
   background-size: cover;
   background-position: center;
 }
-
-body {
-  background-color: #DDBEA9;
-}
-
